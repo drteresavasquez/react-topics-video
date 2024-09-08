@@ -4,7 +4,6 @@ import SayHello from '@/components/SayHello';
 export default function Components() {
   const array = [
     {
-      name: 'Dr. T',
       greeting: 'I hope you are having a wonderful day!',
     },
     {
